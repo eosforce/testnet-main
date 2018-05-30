@@ -6,5 +6,26 @@
     "port_http": "8888",
     "port_ssl": "",
     "port_p2p": "9876"
+  },{
+    "node_name": "eosforce",
+    "location": "加利福尼亚",
+    "node_addr": "18.144.11.122",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876"
+  },{
+    "node_name": "eosforce",
+    "location": "新加坡",
+    "node_addr": "13.250.113.110",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876"
+  },{
+    "node_name": "eosforce",
+    "location": "欧洲, 爱尔兰",
+    "node_addr": "34.240.0.162",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876"
   }]
 }
