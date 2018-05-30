@@ -1,0 +1,10 @@
+{
+  "nodes": [{
+    "node_name": "eosforce",
+    "location": "日本, 东京",
+    "node_addr": "13.231.129.154",
+    "port_http": "8888",
+    "port_ssl": "",
+    "port_p2p": "9876"
+  }]
+}
