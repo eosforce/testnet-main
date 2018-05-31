@@ -2,28 +2,28 @@
   "nodes": [{
     "node_name": "eosforce",
     "location": "日本, 东京",
-    "node_addr": "13.231.129.154",
+    "node_addr": "jp.bp.eosforce.io",
     "port_http": "8888",
     "port_ssl": "443",
     "port_p2p": "9876"
   },{
     "node_name": "eosforce",
     "location": "加利福尼亚",
-    "node_addr": "18.144.11.122",
+    "node_addr": "ca.bp.eosforce.io",
     "port_http": "8888",
     "port_ssl": "443",
     "port_p2p": "9876"
   },{
     "node_name": "eosforce",
     "location": "新加坡",
-    "node_addr": "13.250.113.110",
+    "node_addr": "sg.bp.eosforce.io",
     "port_http": "8888",
     "port_ssl": "443",
     "port_p2p": "9876"
   },{
     "node_name": "eosforce",
     "location": "欧洲, 爱尔兰",
-    "node_addr": "34.240.0.162",
+    "node_addr": "eu.bp.eosforce.io",
     "port_http": "8888",
     "port_ssl": "443",
     "port_p2p": "9876"
