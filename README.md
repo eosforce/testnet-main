@@ -4,7 +4,7 @@ Welcome to EOS Force Testnet v0.5!
 
 EOS Force is an EOSIO software based blockchain focusing on the security and stablity of chain.
 
-[Learn more about EOS Force](eosforce/README.md)(Chinese only).
+[Learn more about EOS Force](https://github.com/eosforce/System)(Chinese only).
 
 ## Run a node via Docker
 
