@@ -1,6 +1,6 @@
 # testnet-v0.5
 
-Welcome to EosForce Testnet v0.5!
+Welcome to EOS Force Testnet v0.5!
 
 EOS Force is an EOSIO software based blockchain focusing on the security and stablity of chain.
 
@@ -43,7 +43,7 @@ EOS Force is an EOSIO software based blockchain focusing on the security and sta
 
 ## Register as a BP
 
-Refer to [command reference](https://github.com/eosforce/System/tree/master/src#command-reference) for the related commands for BP registeration.
+Refer to [command reference](https://github.com/eosforce/System/tree/master/src#command-reference) for the related commands for BP registration.
 
 ## Contact
 
