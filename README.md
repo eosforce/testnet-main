@@ -23,10 +23,12 @@ EOS Force is an EOSIO software based blockchain focusing on the security and sta
     $ cp config.ini /data/eosforce
     ```
 
-- Copy `genesis.json` to `/data/eosforce`:
+- Copy `genesis.json`, `System.abi` and `System.wasm` to `/data/eosforce`:
 
     ```bash
     $ cp genesis.json /data/eosforce
+    $ cp System.abi /data/eosforce
+    $ cp System.wasm /data/eosforce
     ```
 
 - Start a node with docker:
