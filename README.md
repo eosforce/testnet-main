@@ -2,9 +2,9 @@
 
 Welcome to EOS Force Testnet v0.5!
 
-EOS Force is an EOSIO software based blockchain focusing on the security and stablity of chain.
+EOS Force is an EOSIO software based blockchain focusing on the security and stablity.
 
-[Learn more about EOS Force](https://github.com/eosforce/System)(Chinese only).
+[Learn more about EOS Force](https://github.com/eosforce/System).
 
 ## Run a node via Docker
 
@@ -45,7 +45,7 @@ EOS Force is an EOSIO software based blockchain focusing on the security and sta
 
 - First of all, create an account and a pair of EOS keys for your BP, which will be used to fill in the `producer-name = ` and `private-key` items, respectively.
 
-- Then register as a BP via [`updatebp`](https://github.com/eosforce/System/tree/master/src#updatebp). Check out if you are on the BP list with `get table eosio eosio bps` when yout have succeeded to finish the BP registration .
+- Then register as a BP via [`updatebp`](https://github.com/eosforce/System/tree/master/src#updatebp). Check out if you are on the BP list with `get table eosio eosio bps` when you have succeeded to finish the BP registration .
 
 - Lastly, call on your supporters to [vote](https://github.com/eosforce/System/tree/master/src#vote) for you! With enough votes, you should be able to participate in producing blocks.
 
