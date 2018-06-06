@@ -43,11 +43,16 @@ EOS Force is an EOSIO software based blockchain focusing on the security and sta
 
 ## Register as a BP
 
-- First of all, create an account and a pair of EOS keys for your BP, which will be used to fill in the `producer-name = ` and `private-key` items, respectively.
+- First of all, create an account and a pair of EOS keys for your BP, which will be used to fill in the `producer-name` and `private-key` items, respectively.
+
+- Since EOS Force does not offer users free services like EOSIO, you may need some testnet token to start your journey. Post your account name in our telegram group to get some token:
+
+  - English: https://t.me/eosforce_en 
+  - Chinese: https://t.me/eosforce01
 
 - Then register as a BP via [`updatebp`](https://github.com/eosforce/System/tree/master/src#updatebp). Check out if you are on the BP list with `get table eosio eosio bps` when you have succeeded to finish the BP registration .
 
-- Lastly, call on your supporters to [vote](https://github.com/eosforce/System/tree/master/src#vote) for you! With enough votes, you should be able to participate in producing blocks.
+- Lastly, call on your supporters to [`vote`](https://github.com/eosforce/System/tree/master/src#vote) for you! With enough votes, you should be able to participate in producing blocks.
 
 Refer to [command reference](https://github.com/eosforce/System/tree/master/src#command-reference) for all the related commands for BP registration.
 
