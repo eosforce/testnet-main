@@ -1,6 +1,6 @@
 # testnet-main
 
-Welcome to EOS Force Testnet!
+Welcome to EOS Force Testnet! Currently the testnet version is v0.6.
 
 EOS Force is an EOSIO software based blockchain focusing on the security and stablity.
 
@@ -33,7 +33,7 @@ EOS Force is an EOSIO software based blockchain focusing on the security and sta
 
     ```bash
     $ mkdir -p /data/nodeos/eosforce
-    $ docker run -d --restart=always --name eosforce -v /data/eosforce:/opt/eosio/bin/data-dir -v /data/nodeos/eosforce:/root/.local/share/eosio/nodeos -p 8888:8888 -p 9876:9876 eosforce/eos:20180603 nodeosd.sh
+    $ docker run -d --restart=always --name eosforce -v /data/eosforce:/opt/eosio/bin/data-dir -v /data/nodeos/eosforce:/root/.local/share/eosio/nodeos -p 8888:8888 -p 9876:9876 eosforce/eos:v0.6 nodeosd.sh
     ```
 
 - Docker status:
