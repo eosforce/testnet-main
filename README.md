@@ -1,6 +1,6 @@
-# testnet-v0.5
+# testnet-main
 
-Welcome to EOS Force Testnet v0.5!
+Welcome to EOS Force Testnet!
 
 EOS Force is an EOSIO software based blockchain focusing on the security and stablity.
 
@@ -11,8 +11,8 @@ EOS Force is an EOSIO software based blockchain focusing on the security and sta
 - Clone this project:
 
     ```bash
-    $ git clone https://github.com/eosforce/testnet-v0.5.git
-    $ cd testnet-v0.5
+    $ git clone https://github.com/eosforce/testnet-main.git
+    $ cd testnet-main
     ```
 
 - Modify the lines with `NOTE:` mark in `config.ini` accordingly, then copy the revised `config.ini` to `/data/eosforce`:
@@ -47,7 +47,7 @@ EOS Force is an EOSIO software based blockchain focusing on the security and sta
 
 - Since EOS Force does not offer users free services like EOSIO, you may need some testnet token to start your journey. Post your account name in our telegram group to get some token:
 
-  - English: https://t.me/eosforce_en 
+  - English: https://t.me/eosforce_en
   - Chinese: https://t.me/eosforce01
 
 - Then register as a BP via [`updatebp`](https://github.com/eosforce/System/tree/master/src#updatebp). Check out if you are on the BP list with `get table eosio eosio bps` when you have succeeded to finish the BP registration .

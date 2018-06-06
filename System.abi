@@ -44,7 +44,7 @@
       "fields": [
         {"name":"voter",     "type":"account_name"},
         {"name":"bpname",    "type":"account_name"},
-        {"name":"change",    "type":"asset"}
+        {"name":"stake",     "type":"asset"}
       ]
     },{
       "name": "vote_info",
@@ -52,7 +52,8 @@
       "fields": [
         {"name":"bpname",              "type":"account_name"},
         {"name":"staked",              "type":"asset"},
-        {"name":"stake_time",          "type":"time_point_sec"},
+        {"name":"voteage",             "type":"int64"},
+        {"name":"voteage_update_time", "type":"time_point_sec"},
         {"name":"unstaking",           "type":"asset"},
         {"name":"unstake_time",        "type":"time_point_sec"}
       ]
