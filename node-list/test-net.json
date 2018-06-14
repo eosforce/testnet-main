@@ -4,7 +4,7 @@
       "node_name": "本地1",
       "location": "本地1",
       "node_addr": "192.168.1.12",
-      "port_http": "8887",
+      "port_http": "8884",
       "port_ssl": "",
       "port_p2p": "9876"
     }
