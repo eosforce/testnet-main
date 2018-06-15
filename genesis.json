@@ -116,100 +116,133 @@
       "key": "EOS7zdPvyAL2ws4YYNsrgywdYHhGk1Df9Nb9UjKYkS95KgmJKAp4h",
       "asset": "100000000.0000 EOS",
       "name": "eosforce"
+    },{
+      "key": "EOS7zdPvyAL2ws4YYNsrgywdYHhGk1Df9Nb9UjKYkS95KgmJKAp4h",
+      "asset": "0.0000 EOS",
+      "name": "b1",
+      "unlock_time": "2018-07-11T12:42:39.000"
+    },{
+      "key": "EOS7zdPvyAL2ws4YYNsrgywdYHhGk1Df9Nb9UjKYkS95KgmJKAp4h",
+      "asset": "10000000.0000 EOS",
+      "name": "b1.1",
+      "unlock_time": "2018-06-11T12:42:39.000"
     }
   ],
   "initial_producer_list": [{
       "name": "biosbpa",
       "bpkey": "EOS7xTPgP8HxZZSUvuoyKaw4dNGGQPHbpGYzLCYKh6evSqBNxHsWr",
-      "commission_rate": 0
+      "commission_rate": 0,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpb",
       "bpkey": "EOS5Ubn1UUACaFLZBA3eEoYtMWFZ5ae3TL8Hmavvv958Nha5cu9h5",
-      "commission_rate": 10000
+      "commission_rate": 10000,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpc",
       "bpkey": "EOS8msJkLJLw1wJxqp6xtdjSyzEnc7rbEvPquPVYDzZTS6CE5ASy7",
-      "commission_rate": 5000
+      "commission_rate": 5000,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpd",
       "bpkey": "EOS7v1i8AN4pnpyCk4gUqQSatW2kQStswWj2pp6oWjUX5sQMbrWnP",
-      "commission_rate": 3333
+      "commission_rate": 3333,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpe",
       "bpkey": "EOS5YdYtb8SdAqMYCqMwHN5pYp1sEo8im3WoBoE4WD1caCYJf4jz5",
-      "commission_rate": 2500
+      "commission_rate": 2500,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpf",
       "bpkey": "EOS7mJ5NVErooVzzpExneJ2U5thBs45W622qjk88Bnw8KXWUwQ7xG",
-      "commission_rate": 2000
+      "commission_rate": 2000,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpg",
       "bpkey": "EOS5gGS2w2va7ffUGtTYTSTtc55bdrELGrFfYyGPbBfEyjv2UH9yK",
-      "commission_rate": 1666
+      "commission_rate": 1666,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbph",
       "bpkey": "EOS6sPazd4A8nJE9Spv1qiBvxMZRBLB3XEhdUCaiGApJ9V6CKXgRD",
-      "commission_rate": 1428
+      "commission_rate": 1428,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpi",
       "bpkey": "EOS6s1sVkWpNds1Go4ieXmgffF3XEfvr2HKYjmD3NYh3HZBXSMp7P",
-      "commission_rate": 1250
+      "commission_rate": 1250,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpj",
       "bpkey": "EOS81yHJwtqekb3u4siyYCiroyn1aZ7hPs99wZA9U4TNBYvziroYf",
-      "commission_rate": 1111
+      "commission_rate": 1111,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpk",
       "bpkey": "EOS6MSsW9oUucGrmziFJiYUb2iCeoW5GP4AM8JnukEUVcC1kyofsL",
-      "commission_rate": 1000
+      "commission_rate": 1000,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpl",
       "bpkey": "EOS85pa63sQAZPqJgCgHFHNFLKmz8y2fyZjQbNXaUViHxofKQ37sn",
-      "commission_rate": 909
+      "commission_rate": 909,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpm",
       "bpkey": "EOS78FSRkYiUPtH7zGM3tQeBHx7EFXJyEoiewzYNRH1ATTgJc6rnv",
-      "commission_rate": 833
+      "commission_rate": 833,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpn",
       "bpkey": "EOS57nCPstom2JVEH9baiRLLj57fq6XC532CsD8tHeufWswXqqMXn",
-      "commission_rate": 769
+      "commission_rate": 769,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpo",
       "bpkey": "EOS7dCYKUHJHARSdvpEEXdVUTyuoVTduajsAqcUSDCttfF2sR3ykK",
-      "commission_rate": 714
+      "commission_rate": 714,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpp",
       "bpkey": "EOS7REeeqY1PuVRuiQUq9KJV5r4s77Cya1gwQkTxoZofG85RNw9et",
-      "commission_rate": 666
+      "commission_rate": 666,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpq",
       "bpkey": "EOS7pVBYV3y5xQfDCsPqUQjvYScYNB9yGGU6Fsp3VnW8a3mPctFQZ",
-      "commission_rate": 625
+      "commission_rate": 625,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpr",
       "bpkey": "EOS6nnLqm3EgibEob5yNSFRs33NfZqsYVCQVdcCtQsXB5A7xxQp34",
-      "commission_rate": 588
+      "commission_rate": 588,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbps",
       "bpkey": "EOS8fZnxeR6V4BfBWVQ3ViNkwzBA72rM5mzAgiQ3Y3zLknophiqGR",
-      "commission_rate": 555
+      "commission_rate": 555,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpt",
       "bpkey": "EOS6tDsMp6hvJhyszhuYsdi1ywxANWfN3gGEjT7JCj9ULrZ5udUx5",
-      "commission_rate": 526
+      "commission_rate": 526,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpu",
       "bpkey": "EOS7WNYZ9KRWtuYaj5aw5FaoA6hGnSSWRhxVGspDEJtueVp4QFk1q",
-      "commission_rate": 500
+      "commission_rate": 500,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpv",
       "bpkey": "EOS7opqt2ALzpWCqGtzeyuk7S2tetyjnD1BMV6e1Z4aoRyS3fU2S4",
-      "commission_rate": 476
+      "commission_rate": 476,
+      "url": "http://eosforce.io"
     },{
       "name": "biosbpw",
       "bpkey": "EOS6uETzGacTcM1B54as3LcQe4f8SmHjMqLWSGP3x791uoie1qsgw",
-      "commission_rate": 10000
+      "commission_rate": 10000,
+      "url": "http://eosforce.io"
     }
   ]
 }
