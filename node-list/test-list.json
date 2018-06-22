@@ -6,6 +6,7 @@
       "node_addr": "47.98.151.194",
       "port_http": "8888",
       "port_ssl": "",
+      "type": "10",
       "port_p2p": "9876"
     },
     {
@@ -14,6 +15,7 @@
       "node_addr": "47.98.149.73",
       "port_http": "8888",
       "port_ssl": "",
+      "type": "10",
       "port_p2p": "9876"
     },
     {
@@ -22,6 +24,7 @@
       "node_addr": "testnet1.bp.eosforce.io",
       "port_http": "8888",
       "port_ssl": "",
+      "type": "20",
       "port_p2p": "9876"
     },
     {
@@ -30,6 +33,7 @@
       "node_addr": "testnet2.bp.eosforce.io",
       "port_http": "8888",
       "port_ssl": "",
+      "type": "20",
       "port_p2p": "9876"
     },
     {
@@ -38,6 +42,7 @@
       "node_addr": "testnet3.bp.eosforce.io",
       "port_http": "8888",
       "port_ssl": "",
+      "type": "20",
       "port_p2p": "9876"
     },
     {
@@ -46,6 +51,7 @@
       "node_addr": "testnet4.bp.eosforce.io",
       "port_http": "8888",
       "port_ssl": "",
+      "type": "20",
       "port_p2p": "9876"
     }
   ]
