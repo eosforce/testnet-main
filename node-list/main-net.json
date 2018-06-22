@@ -2,8 +2,8 @@
   "nodes": [
     {
       "node_name": "",
-      "location": "华东",
-      "node_addr": "47.96.232.211",
+      "location": "北京",
+      "node_addr": "47.96.105.18",
       "port_http": "8888",
       "port_ssl": "",
       "port_p2p": "9876",
@@ -11,26 +11,8 @@
     },
     {
       "node_name": "",
-      "location": "华南",
-      "node_addr": "101.132.77.22",
-      "port_http": "8888",
-      "port_ssl": "",
-      "port_p2p": "9876",
-      "type": "10"
-    },
-    {
-      "node_name": "",
-      "location": "华西",
-      "node_addr": "47.97.122.109",
-      "port_http": "8888",
-      "port_ssl": "",
-      "port_p2p": "9876",
-      "type": "10"
-    },
-    {
-      "node_name": "",
-      "location": "华北",
-      "node_addr": "47.104.255.49",
+      "location": "杭州",
+      "node_addr": "47.94.18.198",
       "port_http": "8888",
       "port_ssl": "",
       "port_p2p": "9876",
@@ -39,7 +21,16 @@
     {
       "node_name": "",
       "location": "香港",
-      "node_addr": "47.75.126.7",
+      "node_addr": "47.75.5.228",
+      "port_http": "8888",
+      "port_ssl": "",
+      "port_p2p": "9876",
+      "type": "10"
+    },
+    {
+      "node_name": "",
+      "location": "华东",
+      "node_addr": "47.96.232.211",
       "port_http": "8888",
       "port_ssl": "",
       "port_p2p": "9876",
@@ -47,8 +38,26 @@
     },
     {
       "node_name": "",
-      "location": "硅谷",
-      "node_addr": "47.254.71.89",
+      "location": "华南",
+      "node_addr": "101.132.77.22",
+      "port_http": "8888",
+      "port_ssl": "",
+      "port_p2p": "9876",
+      "type": "20"
+    },
+    {
+      "node_name": "",
+      "location": "华西",
+      "node_addr": "47.97.122.109",
+      "port_http": "8888",
+      "port_ssl": "",
+      "port_p2p": "9876",
+      "type": "20"
+    },
+    {
+      "node_name": "",
+      "location": "华北",
+      "node_addr": "47.104.255.49",
       "port_http": "8888",
       "port_ssl": "",
       "port_p2p": "9876",
