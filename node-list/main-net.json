@@ -5,7 +5,7 @@
       "location": "北京",
       "node_addr": "47.96.105.18",
       "port_http": "8888",
-      "port_ssl": "",
+      "port_ssl": "443",
       "port_p2p": "9876",
       "type": "10"
     },
@@ -14,7 +14,16 @@
       "location": "杭州",
       "node_addr": "47.94.18.198",
       "port_http": "8888",
-      "port_ssl": "",
+      "port_ssl": "443",
+      "port_p2p": "9876",
+      "type": "10"
+    },
+    {
+      "node_name": "",
+      "location": "香港",
+      "node_addr": "47.75.5.228",
+      "port_http": "8888",
+      "port_ssl": "443",
       "port_p2p": "9876",
       "type": "10"
     },
