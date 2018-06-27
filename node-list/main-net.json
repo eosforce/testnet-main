@@ -3,7 +3,7 @@
     {
       "node_name": "",
       "location": "北京",
-      "node_addr": "47.96.105.18",
+      "node_addr": "w1.eosforce.cn",
       "port_http": "8888",
       "port_ssl": "443",
       "port_p2p": "9876",
@@ -12,7 +12,7 @@
     {
       "node_name": "",
       "location": "杭州",
-      "node_addr": "47.94.18.198",
+      "node_addr": "w2.eosforce.cn",
       "port_http": "8888",
       "port_ssl": "443",
       "port_p2p": "9876",
