@@ -3,27 +3,27 @@
      {
       "node_name": "",
       "location": "北京",
-      "node_addr": "p1.eosforce.cn",
+      "node_addr": "w1.eosforce.cn",
       "port_http": "8888",
-      "port_ssl": "",
+      "port_ssl": "443",
       "port_p2p": "9876",
       "type": "10"
     },
     {
       "node_name": "",
       "location": "杭州",
-      "node_addr": "p2.eosforce.cn",
+      "node_addr": "w2.eosforce.cn",
       "port_http": "8888",
-      "port_ssl": "",
+      "port_ssl": "443",
       "port_p2p": "9876",
       "type": "10"
     },
     {
       "node_name": "",
       "location": "深圳",
-      "node_addr": "p3.eosforce.cn",
+      "node_addr": "w3.eosforce.cn",
       "port_http": "8888",
-      "port_ssl": "",
+      "port_ssl": "443",
       "port_p2p": "9876",
       "type": "10"
     },
