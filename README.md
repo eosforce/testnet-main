@@ -3,5 +3,5 @@
 安装docker-compose,docker
 
 ```
-docker-compose up -d
+./run.sh
 ```
