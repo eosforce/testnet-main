@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  nodeosd:
+    image: eosforce/eos:v1.3.2
+    command: /opt/eosio/bin/nodeos 
+    hostname: nodeosd
+    ports:
+      - 8888:8888
+      - 9876:9876
+    expose:
+      - "8888"
+    volumes:
+      - /root/compose/config:/root/.local/share/eosio/nodeos/config
+      - /root/compose/data:/root/.local/share/eosio/nodeos/data
