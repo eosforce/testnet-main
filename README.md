@@ -1,6 +1,6 @@
 ###一键起测试网
 
-安装docker-compose,docker
+install docker-compose,docker on linux system
 
 ```
 ./run.sh
