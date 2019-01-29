@@ -2,7 +2,7 @@ version: "3"
 
 services:
   nodeosd:
-    image: eosforce/eos:v1.3.2
+    image: eosforce/eos:v1.4.1
     command: /opt/eosio/bin/nodeos 
     hostname: nodeosd
     ports:
